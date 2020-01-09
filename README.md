@@ -4,7 +4,7 @@ It was given to train a model to predict whether the given investment is success
 # Link to competition:
 https://www.kaggle.com/c/find-the-fund/
 
-#Team members:
+# Team members:
 1. Ayush Mishra
 2. Aryan Mittal
 3. Akshay Mall 
